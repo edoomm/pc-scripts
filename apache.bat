@@ -1,0 +1,1 @@
+docker exec -it lamp-php8 /bin/bash

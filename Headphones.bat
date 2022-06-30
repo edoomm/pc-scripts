@@ -1,0 +1,1 @@
+start "C:\Users\lalom\Documents\NirCmd" nircmd.exe setdefaultsounddevice Headphones

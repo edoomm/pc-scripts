@@ -1,0 +1,1 @@
+docker exec -it lamp-mysql8 mysql -u root -ptiger

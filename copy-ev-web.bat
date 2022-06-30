@@ -1,0 +1,1 @@
+xcopy /s /Y D:\Projects\evaseac\src\web\ C:\Docker\docker-compose-lamp\www\evaseac\
