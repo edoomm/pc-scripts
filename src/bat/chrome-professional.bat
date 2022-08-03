@@ -1,1 +1,1 @@
-start chrome --profile-directory="Profile 5"
+start chrome --profile-directory="Profile 3"
